@@ -51,3 +51,17 @@ Patients diagonised at age group (41-60) and (61-80) has higher survival years s
 Developing regions recorded higher mortality rates, highlighting disparities in healthcare access.
 
 📸 **Dashboard Preview**
+
+
+ **Acknowledgements**
+This dashboard was developed using simulated global cancer data for learning and portfolio purposes. The insights and visuals are intended to showcase data analysis and reporting capabilities using Power BI in the healthcare sector.
+
+📬** Contact**
+
+**For questions, collaborations, or feedback:**
+
+**Tanimola Daniel**
+
+**Tanimoladaniel14@gmail.com**
+
+**https://www.linkedin.com/in/daniel-tanimola-8a8479298**
