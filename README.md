@@ -60,7 +60,7 @@ Developing regions recorded higher mortality rates, highlighting disparities in 
  **Acknowledgements**
 This dashboard was developed using simulated global cancer data for learning and portfolio purposes. The insights and visuals are intended to showcase data analysis and reporting capabilities using Power BI in the healthcare sector.
 
-📬** Contact**
+📬**Contact**
 
 **For questions, collaborations, or feedback:**
 
