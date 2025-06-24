@@ -52,9 +52,8 @@ Developing regions recorded higher mortality rates, highlighting disparities in 
 
 📸 **Dashboard Preview**
 
-[Image](https://github.com/user-attachments/assets/c6dedf29-2878-49af-8d2c-5c3f432f0b8d)
+![Screenshot 2025-06-24 171437](https://github.com/user-attachments/assets/0d1bfff1-f5af-4751-aa03-add4387a06b4)
 
-[Image](https://github.com/user-attachments/assets/40643aa1-c9a8-4480-ae53-a3241a25f19c)
 
  **Acknowledgements**
 This dashboard was developed using simulated global cancer data for learning and portfolio purposes. The insights and visuals are intended to showcase data analysis and reporting capabilities using Power BI in the healthcare sector.
