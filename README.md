@@ -52,7 +52,7 @@ Developing regions recorded higher mortality rates, highlighting disparities in 
 
 📸 **Dashboard Preview**
 
-![Screenshot 2025-06-24 171437](https://github.com/user-attachments/assets/0d1bfff1-f5af-4751-aa03-add4387a06b4)
+[Image](https://github.com/user-attachments/assets/0d1bfff1-f5af-4751-aa03-add4387a06b4)
 
 
  **Acknowledgements**
